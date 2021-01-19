@@ -8,13 +8,16 @@ Most of the routines were written during my stay as an exchange student at EPFL 
   * Solution to a Non-linear Schrödinger's equation
 * Linear Algebra
   * Solution to linear systems
-  * Eigenvalue characterisation for quantum mechanics problems (e.g. Landau Levels)
+  * Eigenvalue characterization for quantum mechanics problems (e.g. Landau Levels)
   * Optimization of high dimensional problems
   * Iterative Schmidt decomposition for tensor network states
 * Other
   * Some Mathematical functions for repeated efficient computation in Matlab
 
 Please note that codes should be taken as illustrative for educational purposes and thus are not optimized routines for a particular problem.
+
+## Queries
+If you have any comment or question regarding any code found here, feel free to send me an email in the following address: <juanfernandezdlg@gmail.com>
 
 # Some references:
 
